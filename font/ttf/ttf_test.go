@@ -10,8 +10,8 @@ import (
 
 	"github.com/go-fonts/dejavu/dejavusans"
 	"github.com/go-fonts/dejavu/dejavusansoblique"
-	"github.com/go-latex/latex/font"
-	"github.com/go-latex/latex/internal/fakebackend"
+	"github.com/latex-render/latexgo/font"
+	"github.com/latex-render/latexgo/internal/fakebackend"
 	"golang.org/x/image/font/sfnt"
 )
 
