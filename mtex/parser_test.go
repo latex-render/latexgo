@@ -8,7 +8,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/go-latex/latex/internal/fakebackend"
+	"github.com/latex-render/latexgo/internal/fakebackend"
 )
 
 func TestParse(t *testing.T) {
