@@ -11,7 +11,7 @@ import (
 	"text/scanner"
 	"unicode"
 
-	"github.com/go-latex/latex/token"
+	"github.com/latex-render/latexgo/token"
 )
 
 type texScanner struct {
