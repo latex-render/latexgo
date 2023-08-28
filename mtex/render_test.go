@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-latex/latex/drawtex"
+	"github.com/latex-render/latexgo/drawtex"
 )
 
 type dummyRenderer struct{}
