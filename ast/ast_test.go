@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-latex/latex/token"
+	"github.com/latex-render/latexgo/token"
 )
 
 func TestPrint(t *testing.T) {
