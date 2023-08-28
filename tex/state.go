@@ -5,7 +5,7 @@
 package tex
 
 import (
-	"github.com/go-latex/latex/font"
+	"github.com/latex-render/latexgo/font"
 )
 
 type State struct {
