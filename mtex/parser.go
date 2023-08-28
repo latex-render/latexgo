@@ -123,7 +123,7 @@ func (v *visitor) Visit(n ast.Node) ast.Visitor {
 
 	// Temperarily use macro until Sup is fully supported.
      	case *ast.Sup:
-             h := v.p.handler(`"\pow")
+             h := v.p.handler(`\pow`)
              if h == nil {
                  panic("no handler for symbol")
              }
