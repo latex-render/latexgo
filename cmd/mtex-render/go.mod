@@ -1,4 +1,4 @@
-module github.com/go-latex/latex/cmd/mtex-render
+module github.com/latex-render/latexgo/cmd/mtex-render
 
 go 1.19
 
@@ -20,4 +20,4 @@ require (
 	golang.org/x/text v0.8.0 // indirect
 )
 
-replace github.com/go-latex/latex => ../..
+replace github.com/latex-render/latexgo => ../..
