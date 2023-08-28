@@ -8,6 +8,7 @@ module github.com/latex-render/latexgo
      github.com/go-fonts/latin-modern v0.3.0
      github.com/go-fonts/liberation v0.3.0
      github.com/go-fonts/stix v0.1.0
+     github.com/go-latex/latex v0.0.0-20230307184459-12ec69307ad9
      github.com/go-pdf/fpdf v0.6.0
      golang.org/x/image v0.6.0
  )
