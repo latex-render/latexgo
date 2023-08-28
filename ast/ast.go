@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/go-latex/latex/token"
+	"github.com/latex-render/latexgo/token"
 )
 
 // Node is a node in a LaTeX document.
