@@ -1,4 +1,4 @@
-module github.com/latex-render/latexgo
+module github.com/go-latex/latex
 
 go 1.19
 
@@ -14,3 +14,5 @@ require (
 )
 
 require golang.org/x/text v0.8.0 // indirect
+
+replace github.com/go-latex/latex => ../..
