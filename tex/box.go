@@ -9,7 +9,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/go-latex/latex/font"
+	"github.com/latex-render/latexgo/font"
 )
 
 const (
