@@ -8,7 +8,7 @@ package drawpdf // import "github.com/go-latex/latex/drawtex/drawpdf"
 import (
 	"log"
 
-	"github.com/go-latex/latex/drawtex"
+	"github.com/latex-render/latexgo/drawtex"
 	pdf "github.com/go-pdf/fpdf"
 )
 
