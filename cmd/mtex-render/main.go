@@ -14,8 +14,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/go-latex/latex/drawtex/drawimg"
-	"github.com/go-latex/latex/mtex"
+	"github.com/latex-render/latexgo/drawtex/drawimg"
+	"github.com/latex-render/latexgo/mtex"
 )
 
 func main() {
