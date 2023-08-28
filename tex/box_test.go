@@ -8,8 +8,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/go-latex/latex/font"
-	"github.com/go-latex/latex/internal/fakebackend"
+	"github.com/latex-render/latexgo/font"
+	"github.com/latex-render/latexgo/internal/fakebackend"
 )
 
 func TestBox(t *testing.T) {
