@@ -6,7 +6,7 @@
 package drawtex // import "github.com/go-latex/latex/drawtex"
 
 import (
-	"github.com/go-latex/latex/font"
+	"github.com/latex-render/latexgo/font"
 	"golang.org/x/image/font/sfnt"
 )
 
