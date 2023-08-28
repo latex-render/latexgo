@@ -7,8 +7,8 @@ package latex
 import (
 	"strings"
 
-	"github.com/go-latex/latex/ast"
-	"github.com/go-latex/latex/internal/tex2unicode"
+	"github.com/latex-render/latexgo/ast"
+	"github.com/latex-render/latexgo/internal/tex2unicode"
 )
 
 type macroParser interface {
