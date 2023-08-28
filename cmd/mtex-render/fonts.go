@@ -20,7 +20,7 @@ import (
 	"github.com/go-fonts/liberation/liberationserifregular"
 	"golang.org/x/image/font/sfnt"
 
-	"github.com/go-latex/latex/font/ttf"
+	"github.com/latex-render/latexgo/font/ttf"
 )
 
 func liberationFonts() *ttf.Fonts {
