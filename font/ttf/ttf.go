@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"unicode"
 
-	"github.com/go-latex/latex/drawtex"
-	"github.com/go-latex/latex/font"
-	"github.com/go-latex/latex/internal/tex2unicode"
+	"github.com/latex-render/latexgo/drawtex"
+	"github.com/latex-render/latexgo/font"
+	"github.com/latex-render/latexgo/internal/tex2unicode"
 	stdfont "golang.org/x/image/font"
 	"golang.org/x/image/font/gofont/gobold"
 	"golang.org/x/image/font/gofont/gobolditalic"
