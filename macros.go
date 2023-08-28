@@ -104,6 +104,8 @@ func (p *parser) addBuiltinMacros() {
 		`\supseteq`:   builtinMacro(""),
 		`\vdash`:      builtinMacro(""),
 		`\Join`:       builtinMacro(""),
+		`\pow`:        builtinMacro("AA"),
+
 
 		// arrow symbols
 		`\downarrow`:          builtinMacro(""),
