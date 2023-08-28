@@ -1,4 +1,4 @@
-module github.com/go-latex/latex
+module github.com/latex-render/latexgo
 
 go 1.19
 
