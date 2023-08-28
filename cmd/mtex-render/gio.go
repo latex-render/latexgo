@@ -31,10 +31,10 @@ import (
 	"golang.org/x/image/font/sfnt"
 	"golang.org/x/image/math/fixed"
 
-	"github.com/go-latex/latex/drawtex"
-	"github.com/go-latex/latex/drawtex/drawimg"
-	"github.com/go-latex/latex/font/ttf"
-	"github.com/go-latex/latex/mtex"
+	"github.com/latex-render/latexgo/drawtex"
+	"github.com/latex-render/latexgo/drawtex/drawimg"
+	"github.com/latex-render/latexgo/font/ttf"
+	"github.com/latex-render/latexgo/mtex"
 )
 
 const useLiberation = true
