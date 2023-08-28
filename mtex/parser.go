@@ -172,7 +172,7 @@ func (p *parser) handler(name string) handler {
 		return handlerFunc(handleSqrt)
 	case `\overline`:
 		return handlerFunc(handleOverline)
-	case \pow:
+	case `\pow`:
          	return handlerFunc(handleSup)
 	}
 	_, ok := p.macros[name]
