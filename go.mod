@@ -17,5 +17,3 @@ module github.com/latex-render/latexgo
      github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
      golang.org/x/text v0.8.0 // indirect
  )
-
-replace github.com/go-latex/latex => github.com/latex-render/latexgo v0.0.4
