@@ -15,8 +15,8 @@ import (
 	"math"
 
 	"github.com/fogleman/gg"
-	"github.com/go-latex/latex/drawtex"
-	"github.com/go-latex/latex/mtex"
+	"github.com/latex-render/latexgo/drawtex"
+	"github.com/latex-render/latexgo/mtex"
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/opentype"
 )
