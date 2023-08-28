@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/go-latex/latex/ast"
+	"github.com/latex-render/latexgo/ast"
 )
 
 func TestParser(t *testing.T) {
