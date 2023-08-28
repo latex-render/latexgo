@@ -10,12 +10,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-latex/latex"
-	"github.com/go-latex/latex/ast"
-	"github.com/go-latex/latex/font"
-	"github.com/go-latex/latex/internal/tex2unicode"
-	"github.com/go-latex/latex/mtex/symbols"
-	"github.com/go-latex/latex/tex"
+	"github.com/latex-render/latexgo"
+	"github.com/latex-render/latexgo/ast"
+	"github.com/latex-render/latexgo/font"
+	"github.com/latex-render/latexgo/internal/tex2unicode"
+	"github.com/latex-render/latexgo/mtex/symbols"
+	"github.com/latex-render/latexgo/tex"
 )
 
 // Parse parses a LaTeX math expression and returns the TeX-like box model
