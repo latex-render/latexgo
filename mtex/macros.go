@@ -7,8 +7,8 @@ package mtex
 import (
 	"strings"
 
-	"github.com/go-latex/latex/ast"
-	"github.com/go-latex/latex/tex"
+	"github.com/latex-render/latexgo/ast"
+	"github.com/latex-render/latexgo/tex"
 )
 
 type handlerFunc func(p *parser, node ast.Node, state tex.State, math bool) tex.Node
