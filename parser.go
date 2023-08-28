@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/go-latex/latex/ast"
-	"github.com/go-latex/latex/token"
+	"github.com/latex-render/latexgo/ast"
+	"github.com/latex-render/latexgo/token"
 )
 
 // ParseExpr parses a simple LaTeX expression.
