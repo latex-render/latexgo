@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/go-latex/latex/drawtex"
-	"github.com/go-latex/latex/font/ttf"
-	"github.com/go-latex/latex/tex"
+	"github.com/latex-render/latexgo/drawtex"
+	"github.com/latex-render/latexgo/font/ttf"
+	"github.com/latex-render/latexgo/tex"
 )
 
 type Renderer interface {
